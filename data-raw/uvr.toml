@@ -1,0 +1,6 @@
+[project]
+name = "cl-ggplot2-maps-data"
+r_version = "==4.6.1"
+
+[dependencies]
+maps = "==3.4.3"

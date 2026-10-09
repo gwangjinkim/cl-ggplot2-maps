@@ -1,0 +1,12 @@
+manifest_fingerprint = "sha256:dedb3520ceac4f141dfe2d39a4e92c6a1f5f24be51305f0cd8a7688576addc28"
+
+[r]
+version = "4.6.1"
+
+[[package]]
+name = "maps"
+version = "3.4.3"
+source = "cran"
+raw_version = "3.4.3"
+url = "https://cran.r-project.org/src/contrib/maps_3.4.3.tar.gz"
+checksum = "md5:63f7c0fdc3489726d253cdc09aaebda4"
